@@ -1,0 +1,17 @@
+{
+    "name": "Covid-19 Stats TH",
+    "version": "1.0.0",
+    "description": "latest covid data of TH (for education)",
+    "manifest_version": 3,
+    "author": "Wanish Sengkhim",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report"
+    },
+    "icons": {
+        "16": "logo/logo16.png",
+        "32": "logo/logo32.png",
+        "48": "logo/logo48.png",
+        "128": "logo/logo128.png"
+      }
+}
